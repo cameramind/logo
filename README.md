@@ -7,6 +7,17 @@
 + [identity](http://identity.cameramind.com)
 + [contribution](http://contribution.softreck.dev)
 
+
+
+![obraz](https://github.com/cameramind/logo/assets/5669657/5ae88061-a284-48b4-b5a2-f84b2206a46c)
+
++ #E63946
++ #F1FAEE
++ #49F2D0
++ #457B9D
++ #1D3557
++ #010203
+
 ---
 
 + [issue](https://github.com/cameramind/logo/issues/new)
